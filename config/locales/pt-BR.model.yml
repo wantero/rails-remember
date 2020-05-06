@@ -1,0 +1,23 @@
+pt-BR:
+    activerecord:
+      models:
+        annotation: 
+          one: Anotação
+          other: Anotações
+        friend:
+          one: Amigo
+          other: Amigos
+      attributes:
+        annotation:
+          id: "Código"
+          body: "Anotação"
+          created_at: "Criado em"
+          updated_at: "Atualizado em"
+        friend:
+          id: "Código"
+          name: "Nome"
+          email: "Email"
+          address: "Endereço"
+          phone: "Telefone"
+          created_at: "Criado em"
+          updated_at: "Atualizado em"
